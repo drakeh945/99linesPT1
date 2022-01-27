@@ -1,0 +1,14 @@
+body {
+  background-color: darkgrey;
+}
+
+h1 {
+  display: inline-block;
+  background-color: burlywood;
+}
+
+h3 {
+  display: inline-block;
+  background-color: cadetblue;
+  text-transform: uppercase;
+}
